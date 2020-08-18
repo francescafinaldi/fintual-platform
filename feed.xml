@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.0">Jekyll</generator><link href="/fintual-platform/feed.xml" rel="self" type="application/atom+xml" /><link href="/fintual-platform/" rel="alternate" type="text/html" /><updated>2020-08-18T19:32:06+00:00</updated><id>/fintual-platform/feed.xml</id><title type="html">Fintual Platform</title><subtitle>Repositorio de scripts para tampermonkey creado por la comunidad Fintual</subtitle><entry><title type="html">Publica tu artículo!</title><link href="/fintual-platform/welcome/guidelines/2020/08/18/publica-tu-articulo.html" rel="alternate" type="text/html" title="Publica tu artículo!" /><published>2020-08-18T17:00:01+00:00</published><updated>2020-08-18T17:00:01+00:00</updated><id>/fintual-platform/welcome/guidelines/2020/08/18/publica-tu-articulo</id><content type="html" xml:base="/fintual-platform/welcome/guidelines/2020/08/18/publica-tu-articulo.html">&lt;p&gt;Primero que todo, gracias por querer publicar en FintualPlatform 🎉&lt;/p&gt;
+
+&lt;p&gt;Para que aceptemos tu artículo, tienes que enviarnos un pull request en este mismo repositorio que contenga como mínimo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tu foto/bio actualizada en el archivo de &lt;a href=&quot;https://github.com/borismacias/fintual-platform/blob/master/_data/authors.yml&quot;&gt;autores&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;El artículo que quieras publicar, siguiendo la guía oficial de &lt;a href=&quot;https://jekyllrb.com/docs/posts/&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cualquier código que quieras mostrar tiene que estar formateado y con un link a tu repositorio público o gist&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Debes agregar los tags correspondientes a tu artículo. Si no existe alguno que quieras agregar, puedes crearlo&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tu artículo debe tener relación con nuestra api o la página web principal de Fintual&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Después de que nos envíes tu pull request te comentaremos cualquier cambio ahí mismo y cuando sea aceptado, será mezclado al branch principal y publicado 🙌🏼&lt;/p&gt;</content><author><name>Boris Macias</name><email>boris@fintual.com</email></author><summary type="html">Primero que todo, gracias por querer publicar en FintualPlatform 🎉</summary></entry><entry><title type="html">¿Qué? ¿Como? ¿Por qué?</title><link href="/fintual-platform/welcome/2020/06/03/que-como-cuando-por-que-donde.html" rel="alternate" type="text/html" title="¿Qué? ¿Como? ¿Por qué?" /><published>2020-06-03T03:43:01+00:00</published><updated>2020-06-03T03:43:01+00:00</updated><id>/fintual-platform/welcome/2020/06/03/que-como-cuando-por-que-donde</id><content type="html" xml:base="/fintual-platform/welcome/2020/06/03/que-como-cuando-por-que-donde.html">&lt;h1 id=&quot;qué&quot;&gt;¿Qué?&lt;/h1&gt;
+
+&lt;p&gt;Fintual Platform es el sucesor espiritual de nuestro &lt;a href=&quot;https://engineering.fintual.cl/&quot;&gt;blog ingenieril&lt;/a&gt; de Fintual, que pasó sin pena ni gloria 😢.&lt;/p&gt;
+
+&lt;p&gt;La idea es publicar acá cosas que podamos hacer con la api de Fintual o scripts en &lt;a href=&quot;https://www.tampermonkey.net/&quot;&gt;Tampermonkey&lt;/a&gt; o &lt;a href=&quot;https://www.greasespot.net/&quot;&gt;Greasemonkey&lt;/a&gt; para mejorar la experiencia en Fintual 🎉&lt;/p&gt;
+
+&lt;h1 id=&quot;cómo&quot;&gt;¿Cómo?&lt;/h1&gt;
+
+&lt;p&gt;Solo debes envíarnos un PR siguiendo &lt;a href=&quot;/fintual-platform/welcome/guidelines/2020/08/18/publica-tu-articulo.html&quot;&gt;esta guía&lt;/a&gt; y tu código aparecerá acá 🙌🏼&lt;/p&gt;
+
+&lt;h1 id=&quot;por-qué&quot;&gt;¿Por qué?&lt;/h1&gt;
+
+&lt;p&gt;Tenemos un montón de clientes/amigos/seguidores bacanes que han hecho ya estas cosas y siempre terminan escondidas en algún hilo de twitter o correo, así que decidimos hacerlos públicos para que todos puedan verlos 😉&lt;/p&gt;</content><author><name>Boris Macias</name><email>boris@fintual.com</email></author><summary type="html">¿Qué?</summary></entry></feed>
